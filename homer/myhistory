@@ -1,0 +1,237 @@
+    1  users
+    2  finger egoldman
+    3  finger jkonigsberg
+    4  write cforster hi charlie :)
+    5  write cforster hi charlie!
+    6  \
+    7  write cforster
+    8  clear
+    9  pwd
+   10  passwd
+   11  home/mmanson$ cd
+   12  home/jkonigsberg$ cd
+   13  exit
+   14  home
+   15  /home
+   16  mkdir
+   17  cd
+   18  mkdir
+   19  mkdir public_html
+   20  cd public_html/
+   21  touch hello world
+   22  echo hello world this is my first site >helloworld.htm
+   23  vim hello world.htm
+   24  vim helloworld.htm
+   25  users
+   26  logout
+   27  mail
+   28  users
+   29  write
+   30  cforster
+   31  write cforster
+   32  pwd
+   33  mkdir homer STEP 2
+   34  pwd
+   35  cd homer
+   36  pwd
+   37  touch agamemnon STEP 3
+   38  touch achilles STEP 3
+   39  touch nestor STEP 3
+   40  pwd
+   41  cat homer
+   42  ls
+   43  cat
+   44  pwd
+   45  ls
+   46  cd homer
+   47  ls
+   48  cd agamemnon
+   49  agamemnon>
+   50  pwd
+   51  cd agamemnon
+   52  cat > agamemnon
+   53  ls
+   54  more agamemnon
+   55  nano agamemnon STEP 4
+   56  cat agamemnon
+   57  man curl
+   58  curl -U
+   59  curl -U http://www.gutenberg.org/cache/epub/6130/pg6130.txt
+   60  curl-U http://www.gutenberg.org/cache/epub/6130/pg6130.txt
+   61  curl -U
+   62  curl -Uhttp://www.gutenberg.org/cache/epub/6130/pg6130.txt
+   63  curl -U firefox http://www.gutenberg.org/cache/epub/6130/pg6130.txt 
+   64  grep mean sacrifice
+   65  grep -B NUM mean sacrifice
+   66  grep -B 3 mean sacrifice
+   67  grep -B "mean sacrifice"
+   68  grep -B 3 "mean sacrifice"
+   69  pwd
+   70  ls
+   71  cat agamemnon
+   72  grep "mean sacrifice"
+   73  grep -F mean sacrifice
+   74  -F mean sacrifice
+   75  grep -F "mean sacrifice"
+   76  curl -U firefox http://www.gutenberg.org/cache/epub/6130/pg6130.txt >untitled STEP 5
+   77  ls
+   78  cat untitled
+   79  grep "mean sacrifice" /home/homer/untitled
+   80  grep -r "mean sacrifice" /homer/untitled
+   81  grep "mean sacrifice" /home/mmanson/homer/untitled
+   82  grep "mean sacrifice" /home/mmanson/homer
+   83  grep -r "mean sacrifice" /home/mmanson/homer
+   84  pwd
+   85  ls
+   86  cat untitled
+   87  cp /home/cforster/homer/pg6130.txt untitled
+   88  cat untitled
+   89  cat untitled | grep "mean sacrifice" STEP 6
+   90  touch Patroclus
+   91  ls
+   92  touch Patroclus
+   93  rm Patroclus
+   94  ls
+   95  touch patroclus STEP 6
+   96  ls
+   97  cat untitled | grep "descend"
+   98  cat untitled | grep "juno and minerva"
+   99  cat untitled | grep "juno
+  100  cat untitled | grep "juno"
+  101  cat untitled | grep "descend"
+  102  cat untitled | grep "minerva"
+  103  cat untitled | grep "Minerva"
+  104  cat untitled | grep "descend"
+  105  pwd
+  106  cd homer
+  107  pwd
+  108  ls
+  109  cat untitled | grep "descend"
+  110  cat untitled | grep "juno""
+  111  cat untitled | grep "juno"
+  112  cat untitled | grep "juno"
+  113  cat untitled | grep "descend""
+  114  cat untitled | grep "descend"
+  115  cat untitled | grep "Minerva descend"
+  116  cat untitled | grep "Juno"hi"
+  117  cat untitled | grep "Juno"
+  118  cat untitled | grep -a 4 "Juno"
+  119  cat untitled | grep-a 4 "Juno"
+  120  cat untitled | grep-a4 "Juno and Minerva""
+  121  cat untitled | grep-a4 "Juno and Minerva"
+  122  cat untitled | grep-A 4 "Juno and Minerva"
+  123  cat untitled | grep "Juno and Minerva"
+  124  cat untitled | grep-B 3 "Juno and Minerva"
+  125  cat untitled | grep -B 3 "Juno and Minerva"
+  126  cat untitled | grep -AB 3 "Juno and Minerva"
+  127  cat untitled | grep -A -B 3 "Juno and Minerva"
+  128  cat untitled | grep -A 3 -B 3 "Juno and Minerva" STEP 7
+  129  pwd
+  130  touch juno
+  131  ls
+  132  > Juno and Minerva descend
+  133  > jun
+  134  > juno
+  135  cat > juno
+  136  more juno
+  137  nano juno STEP 7
+  138  more juno
+  139  cat untitled | grep -A 5 -B 5 "Great Jove beheld"
+  140  pwd
+  141  touch jove
+  142  cp cat untitled | grep -A 5 -B 5 "Great Jove beheld" | jove
+  143  pwd
+  144  ls
+  145  rm jun
+  146  ls
+  147  more Juno
+  148  more juno
+  149  rm Juno
+  150  ls
+  151  cp cat untitled | grep -A 5 -B 5 "Great Jove beheld"
+  152  cat untitled | grep -A 5 -B 5 "Great Jove beheld" STEP 8
+  153  echo  Mourn at each step, and give him up to fate;
+  154  more jove
+  155  nano jove
+  156  more jove
+  157  mv nestor greatnestor STEP 9
+  158  ls
+  159  ..
+  160  cd ..
+  161  pwd
+  162  cd ..
+  163  pwd
+  164  cd cforster
+  165  pwd
+  166  ls
+  167  cat > blue-eyed
+  168  cp blue-eyed agamemnon
+  169  cp blue-eyed /home/mmanson/homer/agammemnon
+  170  cd ../..
+  171  cd homer
+  172  cd home
+  173  ls
+  174  cd mmanson
+  175  cd homer
+  176  cd agamemnon
+  177  ls
+  178  more agammemnon
+  179  cd ../..
+  180  cd cforster
+  181  ls
+  182  cp blue-eyed home/mmanson/homer/agamemnon
+  183  more blue-eyed
+  184  cat > agamemnon
+  185  cat blue-eyed > home/mmanson/homer/agamemnon
+  186  cd ../..
+  187  pwd
+  188  cd home
+  189  cd mmanson
+  190  cd homer
+  191  ls
+  192  rm agammemnon
+  193  ls
+  194  more agamemnon
+  195  cd ../../home/cforster/
+  196  cd ../../home/cforster
+  197  cd ..
+  198  cd..
+  199  cd ..
+  200  ls
+  201  cforster
+  202  cd cforster
+  203  ls
+  204  nano blue-eyed
+  205  pwd
+  206  ls
+  207  cd homer
+  208  ls
+  209  cd ..
+  210  pwd
+  211  cd users
+  212  ls
+  213  cd cforster
+  214  ls
+  215  pwd
+  216  ls
+  217  home ls
+  218  ls ..
+  219  mmanson
+  220  ls ../mmanson
+  221  ls ../mmanson/homer/
+  222  cat blue-eyed >> ../mmanson/homer/agamemnon STEP 10
+  223  cat ../mmanson/homer/agamemnon 
+  224  uptime
+  225  cd ../mmanson/homer
+  226  ls
+  227  uptime
+  228  cat uptime >> agamemnon
+  229  uptime
+  230  uptime >> agamemnon STEP 11
+  231  more agamemnon
+  232  touch myhistory
+  233  ls
+  234  mv untitled text
+  235  ls
+  236  history
+  237  history > myhistory STEP 12
